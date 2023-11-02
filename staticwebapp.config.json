@@ -2,7 +2,7 @@
 		"routes": [
 		{
 			"route": "/*",
-			"redirect": "https://172.178.93.222",
+			"redirect": "https://74.235.185.78",
 			"statusCode": 301
 		}
 	]
